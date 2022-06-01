@@ -1,0 +1,11 @@
+Pen tool
+
+Brush
+
+Blending options
+
+Gradient overlay
+
+Feather
+
+Refine Edges
